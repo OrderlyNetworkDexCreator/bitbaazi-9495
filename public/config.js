@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Vaults,Points,Portfolio,Leaderboard,Rewards",
-  "VITE_CUSTOM_MENUS": "SPOT, https://bitbaazi.com/spot/BTC-USDT; STAKING, https://bitbaazi.com/staking",
+  "VITE_CUSTOM_MENUS": "Spot, https://bitbaazi.com/spot/BTC-USDT; Staking, https://bitbaazi.com/staking",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
