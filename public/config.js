@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "bitbaazi-dex",
   "VITE_ORDERLY_BROKER_NAME": "Bitbaazi",
   "VITE_BROKER_EOA_ADDRESS": "0xb40e3f4f52b432837df3ab15a7c6c10dfb07fc95",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://perpdex.bitbaazi.com",
+  "VITE_SEO_SITE_URL": "https://bitbaazi.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
