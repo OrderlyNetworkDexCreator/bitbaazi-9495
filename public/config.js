@@ -16,7 +16,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_WALLETCONNECT_PROJECT_ID": "",
   "VITE_APP_NAME": "Bitbaazi",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
-  "VITE_HAS_PRIMARY_LOGO": "false",
+  "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Vaults,Points",
   "VITE_CUSTOM_MENUS": "",
