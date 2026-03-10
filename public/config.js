@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_NAME": "Bitbaazi",
   "VITE_APP_DESCRIPTION": "Bitbaazi is a sleek decentralized exchange (DEX) for seamless spot trading of major cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), USDT, and altcoins",
   "VITE_HAS_PRIMARY_LOGO": "true",
-  "VITE_HAS_SECONDARY_LOGO": "false",
+  "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Points,Portfolio,Leaderboard,Vaults,Rewards",
   "VITE_CUSTOM_MENUS": "Spot, https://bitbaazi.com/spot/BTC-USDT; Staking, https://bitbaazi.com/staking",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
